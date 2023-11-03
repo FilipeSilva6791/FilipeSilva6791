@@ -1,4 +1,4 @@
-### 👋 Hello, my name is Filipe and I'm an enthusiast of this wonderful world of software development!
+👋 Hello, my name is Filipe and I'm an enthusiast of this wonderful world of software development!
 
 I have solid knowledge of the C# programming language and the .NET environment where I work directly today.
 
